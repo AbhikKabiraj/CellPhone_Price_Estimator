@@ -11,6 +11,7 @@ Task 3:- Prepare the analysis report stating how model will help expanding the b
 ### Data fields
 
 ● battery_power - Total energy a battery can store in one time measured in mAh
+
 ● blue - Has bluetooth or not
 ● clock_speed - speed at which microprocessor executes instructions
 ● dual_sim - Has dual sim support or not
